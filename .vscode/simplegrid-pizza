@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="simplegrid.css">
+    <style> 
+    body{
+        background: #eae4e9;
+    
+    }
+    .contact{background: #fff1e6; padding: 1em; text-align: center;
+    } 
+    .heading{text-align: center; padding: 1em; border-color: black; background-color: #dfe7fd;
+
+    } 
+    
+        </style>
+</head>
+<body>
+    
+</body> <div class="container">
+    <div class="row">
+        <div class="col-12 heading"><h1 class="header">Perfect Pizza</h1></div>
+    </div>
+    <div class="row">
+      <div class="col-4 pizza">
+        <!-- This content will take up 3/12 (or 1/4) of the container -->
+        <h2>Small Pizza <div><img src="pizza5.gif" width="50mm" </div></h2>
+R42 
+<div>
+   &nbsp;     
+</div>
+<div>Small margeritha pizza with 3 toppings max. 2 or less meat toppings. 3 or less other toppings</div>
+      </div>
+      <div class="col-4 pizza"><h2>Medium Pizza <div><img src="pizza5.gif" width="80mm"></div></h2>
+      R85
+      <div>
+        &nbsp;     
+      </div>
+      <div>Medium margeritha pizza with 3 toppings max. 2 or less meat toppings. 3 or less other toppings</div></div>
+  <div class="col-4 pizza"><h2>Large Pizza <div><img src="pizza5.gif" width="100mm"></div> </h2>
+  R110
+  <div> 
+     &nbsp;   
+  
+  </div>
+  <div>Large margeritha pizza with 3 toppings max. 2 or less meat toppings. 3 or less other toppings.</div></div>
+    </div>
+    <div class="row">
+        <div class="col-12 contact"><h2>Contact details</h2>
+            contact us at: 011 345 6789 info@perfectpizza.co.za</div>
+    </div>
+</html>
